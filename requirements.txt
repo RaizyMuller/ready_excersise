@@ -1,0 +1,4 @@
+datasets==2.15.0
+scikit-learn
+matplotlib
+numpy==1.26.2
